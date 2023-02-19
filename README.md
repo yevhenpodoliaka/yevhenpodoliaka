@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Yevhen
-- 🌱 I’m novice  frontend  developer Certified in technologies HTML, CSS, JS, TS, REACT.
+- 🌱 I’m fullstack  developer Certified in technologies REACT, TS, JS, NODEJS, HTML, CSS.
       With many years of experience in the field of sales.
       I want to work in a company where I can develop my technical and soft skills
       and be part of a team that creates a quality product
